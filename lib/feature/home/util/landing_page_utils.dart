@@ -64,7 +64,7 @@ class LandingPageUtils {
       "name": "William",
       "description":
           "Tell viewers what you want them to do after seeing your post. Click the link in bio! or Shop now! can drive engagement.",
-      "imagePost": "assets/pic6.jpeg",
+      "imagePost": "assets/pic9.jpg",
       "profilePic": "https://randomuser.me/api/portraits/men/6.jpg",
       "isLiked": false,
       "onDoubleTap": false,
